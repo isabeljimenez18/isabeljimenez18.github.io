@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+#header {
+	color: #008080;
+	font-family: "Playfair Display"; 
+	padding-top: 5px;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+#headerone {
+	color: #79CDCD;	
+	font-family: "Roboto";
+	
+}
+
+#writing {
+	color: black;
+	font-family: "Oswald";
+}
